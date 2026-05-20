@@ -1,4 +1,4 @@
-# Econometric Analysis of Southeast Brazil Residential Electricity Demand
+# Análise Econométrica do Consumo de Energia Elétrica Residencial na Região Sudeste
 
 Este repositório contém o trabalho prático desenvolvido para a disciplina de **Econometria II** do curso de Ciências Econômicas da **Universidade Federal de Minas Gerais (UFMG)**. 
 
